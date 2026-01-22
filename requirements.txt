@@ -134,7 +134,7 @@ six==1.17.0
 soupsieve==2.8.1
 stack-data==0.6.3
 starlette==0.50.0
-tensorboard==2.16.2
+tensorboard==2.19.0
 tensorboard-data-server==0.7.2
 tensorflow==2.19.0
 tensorflow-io-gcs-filesystem==0.37.1
